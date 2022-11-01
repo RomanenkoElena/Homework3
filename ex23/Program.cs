@@ -5,6 +5,6 @@ Console.WriteLine($"Ввод числа {numberN}");
 
 for (int i = 1; i <= numberN; i++)
 {
-    int cube = i*i*i;
+    int cube = i * i * i;
     Console.WriteLine($"Число {i}, куб числа {cube}");
 }
