@@ -16,8 +16,3 @@ else
 {
     Console.WriteLine($"Нет, число {numberN} не является палиндромом");
 }
-
-// Console.WriteLine(result1); // эти строки писала для вывода промежуточного результата и проверки работы алгоритма
-// Console.WriteLine(result2);
-// Console.WriteLine(result4);
-// Console.WriteLine(result5);
